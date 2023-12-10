@@ -262,3 +262,4 @@ Please follow MinIO [Contributor's Guide](https://github.com/minio/minio/blob/ma
 - MinIO source is licensed under the [GNU AGPLv3](https://github.com/minio/minio/blob/master/LICENSE).
 - MinIO [documentation](https://github.com/minio/minio/tree/master/docs) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - [License Compliance](https://github.com/minio/minio/blob/master/COMPLIANCE.md)
+
